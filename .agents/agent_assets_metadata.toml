@@ -1,0 +1,14 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "JfCHi5-wodkvUAwn9l7S3"
+uri = "file://artifacts/mobile/assets/images/icon.png"
+type = "image"
+title = "app icon"
+
+[[generated]]
+id = "5xIhdVQiJEVPcXoX_xXx2"
+uri = "file://artifacts/mobile/assets/images/ad_banner.png"
+type = "image"
+title = "game ad banner"
